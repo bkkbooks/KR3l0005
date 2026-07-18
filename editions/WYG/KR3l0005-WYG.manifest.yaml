@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3l0005_000-WYG.yaml, hash: 'sha256:28f0ae9ed136093fd38aff417dc13c90271bfd5a6b6e1f62e0e37ca33dcc4755'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0005_000-WYG.markers.yaml, hash: 'sha256:47b4b7a3c32c21f2565ef6c056955de0fcc4bb175a86e41b3f89da31988dca11'}
+  - {seq: 0, role: markers, filename: assets/KR3l0005_000-WYG.markers.yaml, hash: 'sha256:04254ce80ca859b7359a6c2774ab7e560ccb90423d9f05df6359cb9fb4378d53'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 次栁氏舊聞
   type: section
   level: 1
-hash: sha256:28e0f68e5d18e3ba1252b46bec91b47c4b95cbde86eca91092993787ff3dcae9
+hash: sha256:123fd6f0a5a03228bcfd13b743bcaf1e39a5580bee117c3ab64233978ddbfff9
